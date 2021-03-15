@@ -22,13 +22,12 @@ Hay 2 tipos de análisis de código:
     Para hacer análisis estáticos, utilizamos los llamados «linters» o mediante sitios web para inspeccionar el código, también llamados (Continuous Inspection).
     **Linters**: herramientas que realizan tareas de comprobación en cualquier lenguaje de programación. Las herramientas de tipo lint generalmente funcionan realizando un análisis estático del código fuente.
 
-**Tipos de linters**:
-  - lint: C
-  - sonar: Java
-  - JSLint, ESLint: Javascript
+  **Tipos de linters**:
+    - lint: C
+    - sonar: Java
+    - JSLint, ESLint: Javascript
 
-    **Continuous Inspection**: Sitios web que ofrecen la inspección del código de forma online.
-
+   **Continuous Inspection**: Sitios web que ofrecen la inspección del código de forma online.
     Tipos de Continuous Inspecters:
     - Scrutinizer.
     - SonarQube
