@@ -34,3 +34,57 @@ Sitios web que ofrecen la inspección del código de forma online.
 Tipos de Continuous Inspecters:
   - Scrutinizer
   - SonarQube
+
+### Análisis dinámico:
+
+Comprueba que la ejecución del código haga lo que el usuario quiere que haga.
+
+## Refactorización
+
+La refactorización, es el proceso de reestructuramiento d código fuente alterando la estructura interna sin tener que cambiar el comportamiento externo del programa.
+
+Técnicas utilizadas a la hora de refactorizar:
+  - Renombrar variables.
+  - Pasar código duplicado a funciones por separado.
+  - Eliminación de código muerto
+  - Eliminación de código repetitivo
+  - ...
+
+## Documentación
+
+### Tipos de documentación:
+
+  - **Documentación de usuario**: manual de la aplicación para el uso del usuario.
+  - **Documentación de codigo**: manual para la administración de la aplicación.
+  - **Documentación técnica**: documentación del código para su entendimiento.
+ 
+### Formato de la documentación:
+ 
+La documentación puede ser de uno de los siguientes formatos:
+
+  - HTML: por ejemplo JavaDoc
+  - asciiDoc
+  - Markdown:  por ejemplo Git
+  - ReStructuredText: por ejemplo Readthedocs
+
+## Control de versiones
+
+Sistemas más conocidos:
+  - CVS
+  - Subversion
+  - Git
+  - Mercurial
+ 
+**Git**: 
+
+**Características**:
+  - Moderno
+  - Distribuido
+  - Eficiente
+
+**Conceptos**:
+  - Repository(local & remoto): donde se trabaja, en este caso, un repositorio
+  - Commit: realizar cambios
+  - Branch:
+    - Checkout: cambiar de "branch"
+    - Merge: unir repositorios   
