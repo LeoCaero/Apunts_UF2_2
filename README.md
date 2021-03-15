@@ -20,6 +20,7 @@ Hay 2 tipos de análisis de código:
 
 ### Análisis estático:
 Para hacer análisis estáticos, utilizamos los llamados «linters» o mediante sitios web para inspeccionar el código, también llamados (Continuous Inspection).
+
 **Linters**: herramientas que realizan tareas de comprobación en cualquier lenguaje de programación. Las herramientas de tipo lint generalmente funcionan realizando un análisis estático del código fuente.
 
 #### Tipos de linters:
